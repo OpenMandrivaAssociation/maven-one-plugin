@@ -1,6 +1,6 @@
 Name:           maven-one-plugin
 Version:        1.2
-Release:        5
+Release:        7
 Summary:        Plugin provides some integration tasks with Maven 1.x
 
 Group:          Development/Java
