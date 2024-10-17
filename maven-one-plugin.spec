@@ -5,7 +5,7 @@ Summary:        Plugin provides some integration tasks with Maven 1.x
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://maven.apache.org/plugins/maven-one-plugin/
+URL:            https://maven.apache.org/plugins/maven-one-plugin/
 # svn export http://svn.apache.org/repos/asf/maven/plugins/tags/maven-one-plugin-1.2/
 # tar jcf maven-one-plugin-1.2.tar.bz2 maven-one-plugin-1.2/
 Source0:        %{name}-%{version}.tar.bz2
